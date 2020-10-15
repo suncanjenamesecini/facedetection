@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/facedetectionnew/static/css/main.29ea7792.chunk.css",
+    "main.js": "/facedetectionnew/static/js/main.19024fcf.chunk.js",
+    "main.js.map": "/facedetectionnew/static/js/main.19024fcf.chunk.js.map",
+    "runtime-main.js": "/facedetectionnew/static/js/runtime-main.a926346d.js",
+    "runtime-main.js.map": "/facedetectionnew/static/js/runtime-main.a926346d.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/facedetectionnew/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.9d340d11.chunk.js": "/facedetectionnew/static/js/2.9d340d11.chunk.js",
+    "static/js/2.9d340d11.chunk.js.map": "/facedetectionnew/static/js/2.9d340d11.chunk.js.map",
+    "index.html": "/facedetectionnew/index.html",
+    "precache-manifest.6a7610a5b92f46d8f348597c1f8b744e.js": "/facedetectionnew/precache-manifest.6a7610a5b92f46d8f348597c1f8b744e.js",
+    "service-worker.js": "/facedetectionnew/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/facedetectionnew/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.29ea7792.chunk.css.map": "/facedetectionnew/static/css/main.29ea7792.chunk.css.map",
+    "static/js/2.9d340d11.chunk.js.LICENSE.txt": "/facedetectionnew/static/js/2.9d340d11.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a926346d.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.9d340d11.chunk.js",
+    "static/css/main.29ea7792.chunk.css",
+    "static/js/main.19024fcf.chunk.js"
+  ]
+}
